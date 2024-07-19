@@ -1,0 +1,177 @@
+{
+	"metadata": {
+		"analyst": "Stephen",
+		"composer": "Anonymous",
+		"title": "Quinti_7",
+		"subtitle": "None",
+		"commentary": "None",
+		"author": "Rico"
+	},
+	"key": "1f",
+	"trebleNotes": {
+		"pitchNames": [
+			"C4",
+			"D4",
+			"C4",
+			"B3",
+			"A3",
+			"B3",
+			"C4",
+			"A3"
+		],
+		"depths": [
+			3,
+			0,
+			1,
+			2,
+			0,
+			1,
+			0,
+			3
+		],
+		"selected": [],
+		"ursatz": [
+			0,
+			7
+		],
+		"scaleDegree": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"flagged": [],
+		"sharps": [],
+		"flats": [],
+		"naturals": [],
+		"parenthetical": []
+	},
+	"bassNotes": {
+		"pitchNames": [
+			"C4",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"F3"
+		],
+		"depths": [
+			3,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			3
+		],
+		"selected": [],
+		"ursatz": [
+			0,
+			7
+		],
+		"scaleDegree": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"flagged": [],
+		"sharps": [],
+		"flats": [],
+		"naturals": [],
+		"parenthetical": []
+	},
+	"innerTrebleNotes": {
+		"pitchNames": [
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_"
+		],
+		"depths": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"selected": [],
+		"ursatz": [],
+		"scaleDegree": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"flagged": [],
+		"sharps": [],
+		"flats": [],
+		"naturals": [],
+		"parenthetical": []
+	},
+	"innerBassNotes": {
+		"pitchNames": [
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_",
+			"_"
+		],
+		"depths": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"selected": [],
+		"ursatz": [],
+		"scaleDegree": [
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		],
+		"flagged": [],
+		"sharps": [],
+		"flats": [],
+		"naturals": [],
+		"parenthetical": []
+	},
+	"noteConnections": {
+		"voiceExchangesFromTreble": [],
+		"voiceExchangesFromBass": []
+	}
+}
