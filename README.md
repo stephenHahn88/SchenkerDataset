@@ -10,7 +10,7 @@ For the latest version of our notation software, please visit [schenker-notation
 
 ## Contribute!
 
-For contributions to the dataset, please prepare three versions of your analysis:
+For contributions to the dataset, please prepare three files for each of your analyses:
 1. An image of your graph, either handwritten or using the notation software
 2. The musicxml file associated with your graph
 3. The JSON format of your analysis, which can be easily generated using our notation software
