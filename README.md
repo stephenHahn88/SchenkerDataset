@@ -6,7 +6,7 @@ This is the public repository for computer-readable Schenkerian Analysis based o
 
 For questions and access to the **full private dataset**, please contact the first author, Stephen Ni-Hahn, at stephen(dot)hahn(at)duke(dot)edu. The private dataset will only be released for academic purposes.
 
-For the latest version of our notation software, please visit [schenker-notation.netlify.app](schenker-notation.netlify.app)
+For the latest version of our notation software, please visit [schenker-notation.netlify.app](schenker-notation.netlify.app).
 
 ## Contribute!
 
@@ -26,3 +26,5 @@ SchenkerDataset
     .   .   .
     .   .   .
 ```
+
+If you wish to remain anonymous, please use a silly pseudonym for the analyst folder name :)
